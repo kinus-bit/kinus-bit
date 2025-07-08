@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=600&width=435&lines=Hi,there👋;I'm+Allan+Kinuthia;A+passionate+fullstack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=400&width=435&lines=Hi,there👋;I'm+Allan+Kinuthia;A+passionate+fullstack+developer)](https://git.io/typing-svg)
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
  
 <h3>When I code, I rely on</h3>
