@@ -1,6 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2900&pause=600&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2500&pause=600&width=435&lines=Hi%2Cthere%F0%9F%91%8B;I'm+Allan+Kinuthia;+A+full-stack+software+engineer+;+passionate+about+building+beautiful%2C;+functional%2C+and+user-centric+web+applications.++)](https://git.io/typing-svg)
+### currently a student at karatina university pursuing Bachelor Of Science In Computer Science.
+
+ 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{kinus-bit}/{kinus-bit}/issues)**
  
 <h3>When I code, I rely on</h3>
 <p>
