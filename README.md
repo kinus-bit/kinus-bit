@@ -28,9 +28,9 @@
 ## ⚡️ Stats
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kinus-bit&show_icons=true&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="kinus-bit's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kinus-bit&theme=transparent&count_private=true&border_radius=10&locale=en" alt="kinus-bit's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=kinus-bit&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="kinus-bit's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kinus-bit&theme=radical&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="kinus-bit's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kinus-bit&theme=radical&count_private=true&border_radius=10&locale=en" alt="kinus-bit's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=kinus-bit&theme=radical&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="kinus-bit's Most Used Languages" />
 </div>
 
 <hr>
@@ -40,9 +40,6 @@
   <li><a href="https://medium.com/@regondaakhil1509/pushing-your-first-react-app-to-github-a-step-by-step-guide-f7b592e67658"><i>Pushing Your First React App to GitHub: A Step-by-Step Guide</i></a></li>
   <li><a href="https://medium.com/@regondaakhil1509/the-ultimate-checklist-for-starting-a-react-project-best-practices-and-tips-b73337b9b173"><i>The Ultimate Checklist for Starting a React Project: Best Practices and Tips</i></a></li>
 </ul>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinus-bit&show_icons=true&theme=radical)
 <!--
 
 <!--
