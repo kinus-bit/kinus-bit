@@ -28,7 +28,8 @@
 ## ⚡️ Stats
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kinus-bit&theme=radical&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="kinus-bit's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kinus-bit&theme=radical&count_private=true&show_icons=true&locale=en" alt="kinus-bit's GitHub Stats" />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kinus-bit&theme=radical&count_private=true&border_radius=10&locale=en" alt="kinus-bit's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=kinus-bit&theme=radical&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="kinus-bit's Most Used Languages" />
 </div>
