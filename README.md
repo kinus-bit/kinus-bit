@@ -3,6 +3,16 @@
 ### currently a student at karatina university pursuing Bachelor Of Science In Computer Science.
 
  💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{kinus-bit}/{kinus-bit}/issues)**
+
+ <br>
+
+<div align="center">
+  <a href="allankinuthia68@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/allan-kinuthia-770888310" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
  
 <h3>When I code, I rely on</h3>
 <p>
