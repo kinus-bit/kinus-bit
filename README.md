@@ -1,10 +1,9 @@
 ## Hi there ,am Kinuthia👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+</h1>
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{kinus-bit}/count.svg" alt="Visitor's Count" />
-</div>
-<img src="https://github.com/{kinus-bit}/{kinus-bit}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
+### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
  
 <h3>When I code, I rely on</h3>
 <p>
