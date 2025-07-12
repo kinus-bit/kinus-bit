@@ -1,5 +1,7 @@
+<div  style="border:2px solid black; padding:10px; display:inline-block;">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2300&pause=600&color=AAF733&width=800&lines=Hi+there%F0%9F%91%8B%2C;I'm+Allan+Kinuthia%2CA+full-stack+software+engineer;passionate+about+building+beautiful%2Cfunctional+;and+user-centric++webapplications." alt="Typing SVG" /></a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=2500&pause=600&width=435&lines=Hi%2Cthere%F0%9F%91%8B;I'm+Allan+Kinuthia;+A+full-stack+software+engineer+;+passionate+about+building+beautiful%2C;+functional%2C+and+user-centric+web+applications.++)](https://git.io/typing-svg)
 ### currently a student at karatina university pursuing Bachelor Of Science In Computer Science.
 
  💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{kinus-bit}/{kinus-bit}/issues)**
