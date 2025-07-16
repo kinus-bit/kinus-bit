@@ -24,8 +24,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,postman,expressjs,html,css,tailwind,js,git&perline=3"/>
-<!--   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git&perline=3"/> -->
+  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,postman,expressjs,html,css,tailwind,js,git&perline=5"/>
 </p>
 
 <hr>
