@@ -40,7 +40,7 @@
 <hr>
 <h3>My most recent articles</h3>
 <ul>
-  <li><a href="[https://medium.com/@regondaakhil1509/getting-started-with-react-a-beginners-guide-to-setting-up-your-first-application-a6d8a1ae414](https://medium.com/@mungaiallan540/express-cheatsheet-3092c0592d93)"><i>Getting Started with Express: A Beginner’s Guide to Setting Up Your Backend</i></a></li>
+  <li><a href="https://medium.com/@mungaiallan540/express-cheatsheet-3092c0592d93"><i>Getting Started with Express: A Beginner’s Guide to Setting Up Your Backend</i></a></li>
 </ul>
 <!--
 
