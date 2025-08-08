@@ -33,8 +33,8 @@
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kinus-bit&theme=radical" alt="GitHub Streak" /></a>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kinus-bit&theme=radical&count_private=true&show_icons=true&locale=en" alt="kinus-bit's GitHub Stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinus-bit&langs_count=8&theme=radical&count_private=true&show_icons=true&locale=en" alt="kinus-bit's Most Used Languages" />
+  <img width=420 src="https://github-readme-stats.vercel.app/api?username=kinus-bit&theme=radical&count_private=true&show_icons=true&locale=en" alt="kinus-bit's GitHub Stats" />
+  <img width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinus-bit&langs_count=8&theme=radical&count_private=true&show_icons=true&locale=en" alt="kinus-bit's Most Used Languages" />
 </div>
 
 <hr>
