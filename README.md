@@ -32,7 +32,7 @@
 ## ⚡️ Stats
 <br>
 <div align=center>
-   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kinus-bit&theme=radical&count_private=true&border_radius=10&locale=en" alt="kinus-bit's" />
+   <img src="https://streak-stats.demolab.com?user=kinus-bit&theme=radical&fire=EB5454" alt="GitHub Streak"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=kinus-bit&theme=radical&count_private=true&show_icons=true&locale=en" alt="kinus-bit's GitHub Stats" />
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinus-bit&langs_count=8&theme=radical&count_private=true&show_icons=true&locale=en" alt="kinus-bit's Most Used Languages" />
 </div>
