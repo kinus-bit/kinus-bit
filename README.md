@@ -1,7 +1,5 @@
 <div style="background-color:yellow">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2300&pause=600&color=AAF733&width=800&lines=Hi+there%F0%9F%91%8B%2C;I'm+Allan+Kinuthia%2CA+full-stack+software+engineer;passionate+about+building+beautiful%2Cfunctional+;and+user-centric++webapplications." alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2300&pause=600&color=8E80F7&background=000000&width=435&lines=Hi%2Cam+allan;a+passionate+software+engineer;ready+to+solve+real+world+problems" alt="Typing SVG" /></a>
 </div>
 
 
