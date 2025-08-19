@@ -1,4 +1,4 @@
-<div style="border: 3px solid green; padding: 10px; border-radius: 10px; display: inline-block;">
+<div style="background-color:yellow">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2300&pause=600&color=AAF733&width=800&lines=Hi+there%F0%9F%91%8B%2C;I'm+Allan+Kinuthia%2CA+full-stack+software+engineer;passionate+about+building+beautiful%2Cfunctional+;and+user-centric++webapplications." alt="Typing SVG" />
   </a>
