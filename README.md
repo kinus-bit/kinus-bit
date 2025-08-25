@@ -22,11 +22,12 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,postman,expressjs,html,css,tailwind,js,git,python,mysql,django,next,nuxt&perline=7"/>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933"/>
-
-  
-  (
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=339933"/>
 </p>
 
 <hr>
@@ -63,3 +64,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--⚙️ How it works
+
+https://img.shields.io/badge/<LABEL>-<COLOR>?style=for-the-badge&logo=<LOGONAME>&logoColor=<LOGOCOLOR>
+
+
+LABEL → Text inside badge (JavaScript, Python, etc.)
+
+COLOR → Background color (I used 000000 for dark)
+
+style=for-the-badge → Gives that rectangular style you see
+
+logo= → Picks an icon from Simple Icons
+
+logoColor= → Changes the icon color -->
