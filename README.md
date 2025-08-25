@@ -23,7 +23,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,postman,expressjs,html,css,tailwind,js,git,python,mysql,django,next,nuxt&perline=7"/>
-  <img src="https://badgen.net/badge/JavaScript/ES6/f7df1e?icon=javascript"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933"/>
+
+  
   (
 </p>
 
