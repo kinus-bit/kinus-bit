@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=#61DAFB"/>
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html&logoColor=339933"/>
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=339933"/>
   <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
