@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" height="80"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933&&logoWidth=40" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=#000000" height="80"/>
   <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=#61DAFB" height="80"/>
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=#E34F26" height="80"/>
