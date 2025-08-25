@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,postman,expressjs,html,css,tailwind,js,git,python,mysql,django&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,postman,expressjs,html,css,tailwind,js,git,python,mysql,django,next,nuxt&perline=7"/>
 </p>
 
 <hr>
