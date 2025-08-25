@@ -32,9 +32,9 @@
   <img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=MongoDB&logoColor=#47A248" height="40"/>
   <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=MySQL&logoColor=#4479A1" height="40"/>
   <img src="https://img.shields.io/badge/DJANGO-000000?style=for-the-badge&logo=Django&logoColor=#092E20" height="40"/>
-<!--   <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
-  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
-  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=#000000"/>
+  <img src="https://img.shields.io/badge/RENDER-000000?style=for-the-badge&logo=render&logoColor=#000000"/>
+  <!--   <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
   <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
   <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
   <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
