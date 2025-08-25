@@ -28,6 +28,17 @@
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=#E34F26"/>
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=#663399"/>
   <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=#3776AB"/>
+  <img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=MongoDB&logoColor=#47A248"/>
+  <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=MySQL&logoColor=#4479A1"/>
+  <img src="https://img.shields.io/badge/DJANGO-000000?style=for-the-badge&logo=Django&logoColor=#092E20"/>
+<!--   <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javaScript&logoColor=#F7DF1E"/> -->
 </p>
 
 <hr>
