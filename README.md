@@ -23,6 +23,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,postman,expressjs,html,css,tailwind,js,git,python,mysql,django,next,nuxt&perline=7"/>
+  <img src="https://badgen.net/badge/icon/java/color=black?icon=java"/>
 </p>
 
 <hr>
@@ -36,6 +37,8 @@
 </div>
 
 <hr>
+
+
 <h3>My most recent articles</h3>
 <ul>
   <li><a href="https://medium.com/@mungaiallan540/express-cheatsheet-3092c0592d93"><i>Getting Started with Express: A Beginner’s Guide to Setting Up Your Backend</i></a></li>
