@@ -23,7 +23,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,postman,expressjs,html,css,tailwind,js,git,python,mysql,django,next,nuxt&perline=7"/>
-  <img src="https://badgen.net/badge/icon/java/color=black?icon=java"/>
+  <img src="https://badgen.net/badge/JavaScript/ES6/f7df1e?icon=javascript"/>
+  (
 </p>
 
 <hr>
