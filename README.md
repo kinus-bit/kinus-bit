@@ -10,10 +10,10 @@
  <br>
 
 <div align="center">
-  <a href="allankinuthia68@gmail.com">
+  <a href="mungaiallan540@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/allan-kinuthia-770888310" target="_blank">
+  <a href="www.linkedin.com/in/allankinuthiamungai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
  
