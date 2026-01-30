@@ -31,14 +31,3 @@
 </div>
 <hr>
 
-
-
-LABEL → Text inside badge (JavaScript, Python, etc.)
-
-COLOR → Background color (I used 000000 for dark)
-
-style=for-the-badge → Gives that rectangular style you see
-
-logo= → Picks an icon from Simple Icons
-
-logoColor= → Changes the icon color -->
