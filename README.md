@@ -21,5 +21,5 @@
 
 ## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allan-bit-web&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinus-bit&theme=react-dark)
 
