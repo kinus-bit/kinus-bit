@@ -7,7 +7,6 @@
 ## 💻 Tech Stack
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=339933&logoWidth=80" />
   <img src="https://img.shields.io/badge/Express.js-yellow?style=for-the-badge&logo=express&logoColor=#000000" height="80"/>
   <img src="https://img.shields.io/badge/React.js-black?style=for-the-badge&logo=react&logoColor=#61DAFB" height="80"/>
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=#E34F26" height="80"/>
@@ -19,7 +18,4 @@
 </p>
 <hr>
 
-## 📊 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kinus-bit&theme=react-dark)
 
