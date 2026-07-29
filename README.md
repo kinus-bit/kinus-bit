@@ -5,17 +5,14 @@
 ## ![](https://komarev.com/ghpvc/?username=kinus-bit&color=green)
 
 ## 💻 Fullstack Developer(MERN) Stack
-<br>
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
 </p>   
-<hr>
 
 ## 💻 Data analyst Stack
-<br>
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white&style=for-the-badge" alt="Google Sheets" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
@@ -27,7 +24,6 @@
   <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy" />
   <img src="https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=white&style=for-the-badge" alt="Seaborn" />
 </p>    
-<hr>
 
 
 
