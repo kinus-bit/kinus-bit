@@ -23,10 +23,10 @@
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white&style=for-the-badge" alt="Google Sheets" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Power_BI-F1C912?logo=power-bi&logoColor=black&style=for-the-badge" alt="Power BI" />
+  <br/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F1C912?logo=power-bi&logoColor=black&style=for-the-badge" alt="Power BI" />
-    <br />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy" />
