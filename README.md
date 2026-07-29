@@ -1,4 +1,4 @@
-[![Dual Role Neon Fast](https://readme-svg-typing-generator.vercel.app/api?lines=Data+Analyst;From+Database+to+Dashboard;Derive+Actionable+Insights;Full+Stack+Developer;Engineer+Robust+Architectures&animation=neon&color=00ffff&font=JetBrains+Mono&size=24&duration=1500&pause=500)](https://github.com/readme-SVG/readme-SVG-typing-generator)     
+[![Dual Role Neon Fast](https://readme-svg-typing-generator.vercel.app/api?lines=Data+Analyst;From+Database+to+Dashboard;Derive+Actionable+Insights;Full+Stack+Developer;Engineer+Robust+Architectures&animation=neon&color=00ffff&font=JetBrains+Mono&size=24&duration=1500&pause=500&width=700)](https://github.com/readme-SVG/readme-SVG-typing-generator)   
 
 
 ## ![](https://komarev.com/ghpvc/?username=kinus-bit&color=green)
