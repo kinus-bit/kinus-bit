@@ -22,8 +22,7 @@
 ## 💻 Data analyst Stack
 <br>
 <p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/-Spreadsheets-green?style=flat
-    square&logo=googlesheets&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/-PowerBI-yellow?style=flat
     square&logo=powerbi&logoColor=black&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/-SQL-003B57?style=flat
