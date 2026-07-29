@@ -1,4 +1,5 @@
-[![Gradient Text](https://scribesvg.vercel.app/api/render?lines=Data+Analyst;Turning+Numbers+into+Stories&theme=Sunset+Glow&font=JetBrains+Mono)](https://scribesvg.vercel.app/)   
+[![Dual Role Neon](https://readme-svg-typing-generator.vercel.app/api?lines=Data+Analyst;Full+Stack+Developer;Architecting+Scalable+Solutions&animation=neon&color=00ffff&font=JetBrains+Mono&size=24)](https://github.com/readme-SVG/readme-SVG-typing-generator)   
+
 
 ## ![](https://komarev.com/ghpvc/?username=kinus-bit&color=green)
 
