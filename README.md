@@ -1,5 +1,4 @@
-
-[![Gradient Professional](https://scribesvg.vercel.app/api/render?lines=Full+Stack+Developer;Data+Analyst;Bridging+Insights+%26+Deployment&theme=Sunset+Glow&font=Orbitron&size=28)](https://scribesvg.vercel.app/)   
+[![Dual Role Neon Fast](https://readme-svg-typing-generator.vercel.app/api?lines=Data+Analyst;Full+Stack+Developer;Architecting+Scalable+Solutions&animation=neon&color=00ffff&font=JetBrains+Mono&size=24&duration=1500&pause=500)](https://github.com/readme-SVG/readme-SVG-typing-generator)     
 
 
 ## ![](https://komarev.com/ghpvc/?username=kinus-bit&color=green)
