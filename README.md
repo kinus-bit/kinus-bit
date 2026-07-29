@@ -21,13 +21,11 @@
 
 ## 💻 Data analyst Stack
 <br>
-<p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-PowerBI-yellow?style=flat
-    square&logo=powerbi&logoColor=black&logoSize=auto">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-SQL-003B57?style=flat
-    square&logo=mysql&logoColor=white&logoSize=auto">
-</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F1C912?logo=power-bi&logoColor=white&style=for-the-badge" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" alt="Excel" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" alt="SQL Server" />
+</p>   
 <hr>
 
 
